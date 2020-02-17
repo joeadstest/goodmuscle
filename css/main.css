@@ -10,8 +10,8 @@ body {
 
 #page-top {
     position: fixed;
-    right: 30px;
-    bottom: 60px;
+    right: 3%;
+    bottom: 12%;
     color: #CCA330;
 }
 
@@ -189,7 +189,7 @@ body {
 #main {
     margin: auto;
     width: 100%;
-    max-width: 1140px;
+    /* max-width: 1140px; */
     /* position: relative; */
 }
 
@@ -291,11 +291,15 @@ body {
 /*********************************/
 
 
-/* .trainer .title {
+.course>.title {
     color: #CCA330;
     font-size: 1.5em;
-    margin-top: 22px;
-} */
+    width: 90%;
+    margin: 22px auto;
+    
+
+
+}
 
 .area-content {
     display: flex;
